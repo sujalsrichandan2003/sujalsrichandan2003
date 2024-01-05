@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋, I'm sujal srichandan...
 
 <!--
 **sujalsrichandan2003/sujalsrichandan2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
